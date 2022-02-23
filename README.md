@@ -1,5 +1,3 @@
-D:\Programming\Python\Project\API_Exercise
-
 Dependencies/Frameworks in file:
 1. Pytest
 2. Selenium
