@@ -1,0 +1,8 @@
+02/23/2022
+Pytest = Failed
+
+From the test_phrase.py, there was a syntax error that I can't seem to skip. That errors has to deal with positional argument but from calling from another file.
+
+Will reattempt with another approach to overcome the error.
+
+However, despite this error. If the test was ran as parallel testing, it worked fine. This means false positive result. 
