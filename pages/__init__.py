@@ -1,1 +1,0 @@
-#This file create pages package through __init__.
