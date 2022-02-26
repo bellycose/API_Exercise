@@ -1,0 +1,8 @@
+Feature: See if searchbar is functional
+
+Scenario: Check Bing Search "Trigonometry"
+	Given the Bing homepage is loaded
+	When user searches for "Trigonometry"
+	Then search result title contains "Trigonometry"
+	And result query is "Trigonometry"
+	And search result links pertains to "Trigonometry"
