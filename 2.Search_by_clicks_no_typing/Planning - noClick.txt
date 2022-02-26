@@ -1,0 +1,6 @@
+Feature: Joke Generator Button
+
+Scenario: Click button to move onto next jokes.
+	Given the website is displayed with the instruction and buttons
+	When the user clicked on the button
+	Then the joke is generated
